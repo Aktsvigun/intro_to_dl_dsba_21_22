@@ -1,2 +1,2 @@
-# intro_to_dl_dsba_21_22
-Repository for first subpart of Machine Learning - 2 course for DSBA, HSE &amp; University of London, 4 course, 21/22
+## intro_to_dl
+Repository for Intro to Deep Learning course (first part of Machine Learning - 2 course) for Data Science and Business Analytics HSE University and University of London Double Degree Programme (https://www.hse.ru/en/edu/courses/395883950).
